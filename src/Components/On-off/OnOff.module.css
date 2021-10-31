@@ -1,0 +1,25 @@
+.container button {
+    padding: 5px;
+    margin: 5px;
+    height: 30px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.circle {
+    display: inline-block;
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 590px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
